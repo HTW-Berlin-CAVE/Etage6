@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: edea7a1dcf624714ea43f50860bbcbb3, type: 3}
+  m_Name: Joycon Binding
+  m_EditorClassIdentifier: 
+  schemes:
+  - name: Horizontal L
+    axis: 1
+    button: 10
+  - name: Horizontal R
+    axis: 1
+    button: 10
+  - name: Vertical L
+    axis: 1
+    button: 10
+  - name: Vertical R
+    axis: 1
+    button: 10
+  - name: Trigger L
+    axis: 0
+    button: 12
+  - name: Trigger R
+    axis: 0
+    button: 12
+  - name: Bumper L
+    axis: 0
+    button: 11
+  - name: Bumper R
+    axis: 0
+    button: 11
+  - name: Stick L
+    axis: 0
+    button: 10
+  - name: Stick R
+    axis: 0
+    button: 10
