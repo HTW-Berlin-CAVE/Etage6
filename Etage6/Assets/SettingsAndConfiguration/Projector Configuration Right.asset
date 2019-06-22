@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96bd7b7215ceb24428034112ebcfa080, type: 3}
+  m_Name: Projector Configuration Right
+  m_EditorClassIdentifier: 
+  order: 2
+  width: 3
+  height: 2.35
+  near: 0.1
+  far: 1000
+  fieldOfView: 90
+  bimber:
+  - {x: 0.6129455, y: -0.01849817, z: 0, w: -0.056053314}
+  - {x: 0.0037621509, y: 0.9015603, z: 0, w: 0.10251232}
+  - {x: 0, y: 0, z: 0.84143436, w: 0}
+  - {x: 0.15583402, y: 0.14020029, z: 0, w: 1}
+  correctionPlane:
+  - {x: 0.3043489, y: 0.9575739}
+  - {x: 0.8691218, y: 0.98891664}
+  - {x: 0.9545912, y: 0.03659001}
+  - {x: 0.2583357, y: 0.11047199}
